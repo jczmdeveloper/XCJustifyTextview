@@ -1,0 +1,2 @@
+# XCJustifyTextview
+Android仿微信读书文本两端左右对齐控件
